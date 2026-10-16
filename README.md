@@ -1,5 +1,7 @@
 # 💫 About Me:
-I make cool pygame games ;)
+Final year computer science student specialized in artificial intelligence & data science.
+Experienced in web development.
+Game development enthusiast.
 
 
 ## 🌐 Socials:
